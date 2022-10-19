@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.input {
+    height: 18px;
+}
